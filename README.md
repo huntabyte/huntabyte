@@ -10,4 +10,4 @@ Welcome to my GitHub page. Most of the public projects here are open source cont
 
 ## About Me
 
-I'm a Network & Systems Engineer turned Software Engineer. I love the fact once you learn software development, the possibilities to create great things are endless. I haven't made the full commitment to a single language yet, but I am currently heavily invested in learning Svelte/SvelteKit, and would consider myself strong in Python & NodeJS. 
+I'm a Network & Systems Engineer turned Software Engineer. I love the fact once you learn software development, the possibilities to create great things are endless. I haven't made the full commitment to a single language yet, but I am currently heavily invested in learning Svelte/SvelteKit, and have spent a bit of time using Python & NodeJS.
