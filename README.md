@@ -1,5 +1,3 @@
-# Hunter Johnston
-
 Welcome to my GitHub page. Most of the public projects here are open source contributions, practice projects (to learn a new language or framework), or  resources/projects built for my [YouTube channel](https://youtube.com/c/huntabyte). Most projects that I am actively working on are private, some of which will be publicized once I believe the time is right.
 
 
