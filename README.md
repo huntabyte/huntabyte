@@ -1,1 +1,1 @@
-Welcome to my GitHub page. Most of the public projects here are open source contributions, practice projects (to learn a new language or framework), or  resources/projects built for my [YouTube channel](https://youtube.com/c/huntabyte).
+Welcome to my GitHub page. Most of the repos here are built either for a tutorial or live on stream on my [YouTube channel](https://youtube.com/c/huntabyte).
